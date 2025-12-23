@@ -1,7 +1,3 @@
-Certainly! Here's a polished version of your GitHub profile README with the details you provided and some creative enhancements:
-
----
-
 # 👋 Hi, I’m @ramkiran05
 
 ### 👀 Interests
